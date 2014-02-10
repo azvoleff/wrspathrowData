@@ -1,4 +1,4 @@
-# wrspathrow
+# wrspathrowData
 
 [![Build Status](https://travis-ci.org/azvoleff/wrspathrow.png)](https://travis-ci.org/azvoleff/wrspathrow)
 
