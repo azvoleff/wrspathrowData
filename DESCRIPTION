@@ -11,4 +11,3 @@ Description: Contains the Worldwide Reference System (WRS) 1 and 2 polygon
 License: GPL (>= 3)
 URL: https://github.com/azvoleff/wrspathrowData
 BugReports: https://github.com/azvoleff/teamr/wrspathrowData
-LazyData: true
