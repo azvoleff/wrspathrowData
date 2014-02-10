@@ -13,8 +13,8 @@ these datasets..
 
 Note that as `wrspathrowData` contains the full WRS-1 and WRS-2 polygon 
 datasets, the package is quite large (over 26MB when installed). To install the 
-package from github, first installt the `devtools` package. `wrspathrowData` 
-can then be installed R by entering
+package from github, first install the `devtools` package. `wrspathrowData` can 
+then be installed by entering
 
 ```R
 install_github('wrspathrowData', username='azvoleff')
