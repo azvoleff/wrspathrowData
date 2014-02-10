@@ -1,6 +1,6 @@
 # wrspathrowData
 
-[![Build Status](https://travis-ci.org/azvoleff/wrspathrow.png)](https://travis-ci.org/azvoleff/wrspathrow)
+[![Build Status](https://travis-ci.org/azvoleff/wrspathrowData.png)](https://travis-ci.org/azvoleff/wrspathrowData)
 
 ## Overview
 
