@@ -6,8 +6,8 @@
 
 The `wrspathrowData` package includes the full Worldwide Reference System (WRS) 
 1 and WRS 2 grids used by NASA for cataloging Landsat scenes. The package 
-is requried by the `wrspathrow` package, which contains functions to work with 
-these datasets..
+is required by the [`wrspathrow`](http://github.com/azvoleff/wrspathrow) 
+package, which contains functions to work with these datasets.
 
 ## Package Installation
 
