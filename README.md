@@ -15,7 +15,7 @@ Note that as `wrspathrowData` contains the full WRS-1 and WRS-2 polygon
 datasets, the package is larger than the average R package (over 26MB when 
 installed).  The easiest way to install the development version of the package 
 is to download it directly from GitHub (within R) using the 
-[devtools](http://cran.r-project.org/web/packages/devtools/index.html) package 
+[`devtools`](http://cran.r-project.org/web/packages/devtools/index.html) package 
 by Hadley Wickham. After installing `devtools` from CRAN, type:
 
 ```R
