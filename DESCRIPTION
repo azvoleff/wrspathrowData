@@ -1,5 +1,5 @@
 Package: wrspathrowData
-Version: 0.1
+Version: 1.0
 Date: 2014-02-12
 Title: Data used by the wrspathrow package
 Authors@R: c(person("Alex", "Zvoleff", email="azvoleff@conservation.org",
