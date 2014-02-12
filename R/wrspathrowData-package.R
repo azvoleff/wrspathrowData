@@ -11,6 +11,9 @@ NULL
 #' @docType data
 #' @name wrs1_asc_desc
 #' @seealso wrs2_asc_desc
+#' @references
+#' \href{http://landsat.usgs.gov/tools_wrs-2_shapefile.php}{WRS-1 Shape files 
+#' courtesy of the U.S. Geological Survey}.
 NULL
 #' Worldwide Reference System - 2 (WRS2) SpatialPolygonsDataFrame
 #' 
@@ -20,4 +23,7 @@ NULL
 #' @docType data
 #' @name wrs2_asc_desc
 #' @seealso wrs1_asc_desc
+#' @references
+#' \href{http://landsat.usgs.gov/tools_wrs-2_shapefile.php}{WRS-2 Shape files 
+#' courtesy of the U.S. Geological Survey}.
 NULL
