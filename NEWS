@@ -1,4 +1,11 @@
-wrspathrowData 0.1
+wrspathrowData 1.1
+==================
+
+*  Fix bugreports link in README.md.
+
+*  Add NEWS file.
+
+wrspathrowData 1.0
 ==================
 
 *  Initial release to CRAN.
