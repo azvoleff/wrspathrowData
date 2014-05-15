@@ -5,6 +5,8 @@ wrspathrowData 1.1
 
 *  Add NEWS file.
 
+* Upgrade to roxygen2 > 4.0.0
+
 wrspathrowData 1.0
 ==================
 
