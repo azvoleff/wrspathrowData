@@ -10,7 +10,8 @@ Depends:
 Description: Contains the Worldwide Reference System (WRS) 1 and 2 polygon
     data from NASA, for use by the wrspathrow package. WRS-1 and WRS-2
     Shape files courtesy of the U.S. Geological Survey, from
-    http://landsat.usgs.gov/tools_wrs-2_shapefile.php
+    http://landsat.usgs.gov/tools_wrs-2_shapefile.php.
 License: GPL (>= 3)
 URL: https://github.com/azvoleff/wrspathrowData
 BugReports: https://github.com/azvoleff/wrspathrowData
+RoxygenNote: 5.0.1
